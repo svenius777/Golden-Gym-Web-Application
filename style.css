@@ -1,0 +1,344 @@
+body {
+  font-family: "sitka";
+}
+
+.navMenu a {
+  font-weight: bold;
+  color: white;
+  font-size: 36px;
+}
+
+.navBG {
+  background-color: #121009;
+}
+
+.logo {
+  font-family: "Script MT Bold";
+  color: #CABA82;
+  font-size: 48px;
+}
+
+.bgImage {
+  background-image: url("images/pexels-victor-freitas-791763.jpg");
+  padding-bottom: 200px;
+}
+
+.bg-image-treninzi {
+  background-image: url("images/pexels-pixabay-414029.jpg");
+  padding-bottom: 200px;
+}
+
+.list-group .active {
+  background-color: #373D7D !important;
+}
+
+.list-group-item {
+  background-color: #7D7043;
+  color: white;
+  font-weight: bold;
+}
+
+.tab-content {
+  color: white;
+  font-size: 25px;
+}
+
+.button1 {
+  border-radius: 8px;
+  background-color: #7D7351;
+  font-weight: bold;
+  font-size: 24px;
+  color: white;
+  border: none;
+  margin-top: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  
+}
+
+.button1 a{
+  text-decoration: none;
+}
+/* pazi da je po redu*/
+.button1 a:visited{
+  color: white;
+}
+
+.button1 a:hover{
+  color: rgb(51, 51, 51);
+}
+
+.button1 a:link{
+  color: white;
+}
+
+.button1 a:active{
+  color: rgb(17, 17, 17);
+}
+
+
+
+.button2 {
+  border-radius: 8px;
+  background-color: #7D7351;
+  font-weight: bold;
+  font-size: 24px;
+  color: white;
+  border: none;
+  margin-top: 35%;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.button2 a{
+  text-decoration: none;
+}
+/* pazi da je po redu*/
+.button2 a:visited{
+  color: white;
+}
+
+.button2 a:hover{
+  color: rgb(51, 51, 51);
+}
+
+.button2 a:link{
+  color: white;
+}
+
+.button2 a:active{
+  color: rgb(17, 17, 17);
+}
+
+.rectangle {
+  margin-top: 80px;
+  height: 320px;
+  width: 390px;
+  background-color: rgba(217, 217, 217, 0.2666666667);
+}
+.rectangle h2 {
+  font-size: 27px;
+}
+
+.rectangle-content {
+  padding-top: 10px;
+}
+
+h2 {
+  color: white;
+  font-size: 32px;
+}
+
+hr {
+  border: 8px solid #7D7351;
+  border-radius: 4px;
+  padding: 0;
+  margin: 0;
+}
+
+.bgColor {
+  background-color: #121009;
+  padding-bottom: 80px;
+}
+
+.bgColorOprema {
+  background-color: #121009;
+  padding-bottom: 330px;
+}
+
+.row-padding {
+  padding-top: 80px;
+}
+
+h3 {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+}
+
+.kartica {
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+}
+
+.foot {
+  color: #CABA82;
+}
+
+.foot p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 30px;
+}
+
+h5 {
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+}
+
+.ikone {
+  font-size: 40px;
+}
+
+.card {
+  background-color: #7D7043;
+  height: 300px;
+}
+
+.card-text {
+  color: white;
+  font-size: 18px;
+}
+
+form label {
+  color: white;
+  font-size: 19px;
+}
+form p {
+  color: white;
+  font-size: 19px;
+}
+form .radio-opcija {
+  color: white;
+  font-size: 16px;
+}
+
+/*---Media Queries --*/
+@media (max-width: 992px) {
+  h2 {
+    font-size: 130%;
+  }
+  .rectangle {
+    height: 240px;
+    width: 280px;
+  }
+  .button1 {
+    font-size: 120%;
+  }
+  .button2 {
+    font-size: 110%;
+    width: 50%;
+  }
+  h1 {
+    font-size: 180%;
+  }
+  .hamburger {
+    font-size: 1.8em;
+  }
+  h3 {
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+  }
+  .kartica {
+    font-size: 22px;
+  }
+  .karticaSlika {
+    width: 300px;
+    height: auto;
+  }
+}
+@media (max-width: 768px) {
+  .tab-content {
+    color: white;
+    font-size: 22px;
+  }
+  h2 {
+    font-size: 100%;
+  }
+  .rectangle {
+    height: 190px;
+    width: 220px;
+  }
+  .button1 {
+    font-size: 120%;
+  }
+  .button2 {
+    margin-top: 30%;
+    width: 50%;
+    font-size: 100%;
+  }
+  h1 {
+    font-size: 180%;
+  }
+  .hamburger {
+    font-size: 1.7em;
+  }
+  .logo {
+    font-size: 35px;
+  }
+  .navMenu a {
+    font-size: 29px;
+  }
+  h3 {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+  }
+  .kartica {
+    font-size: 20px;
+  }
+  .karticaSlika {
+    width: 270px;
+    height: auto;
+  }
+}
+@media (max-width: 576px) {
+  .tab-content {
+    color: white;
+    font-size: 18px;
+  }
+  h2 {
+    font-size: 80%;
+  }
+  h1 {
+    font-size: 150%;
+  }
+  .rectangle {
+    height: 150px;
+    width: 180px;
+  }
+  .button1 {
+    font-size: 100%;
+  }
+  .button2 {
+    font-size: 80%;
+    width: 50%;
+    margin-top: 25%;
+  }
+  .hamburger {
+    font-size: 1.5em;
+  }
+  .logo {
+    font-size: 30px;
+  }
+  .navMenu a {
+    font-size: 25px;
+  }
+  h3 {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+  }
+  .kartica {
+    font-size: 18px;
+  }
+  .karticaSlika {
+    width: 250px;
+    height: auto;
+  }
+  .card {
+    height: 250px;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

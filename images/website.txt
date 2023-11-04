@@ -1,0 +1,6 @@
+web stranica za fitness centar
+kategorije: home, o nama (dodati google karte), treninzi, cjenik, kontakt
+hr
+
+google.fonts.com
+latin extended čšćžđ

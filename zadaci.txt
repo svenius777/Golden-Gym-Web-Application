@@ -1,0 +1,32 @@
+prvo radio u figmi UI zatim izrada websitea u html css i bootstrapu
+Zatim umetanje podataka u bazu pomocu phpmyadmin, php i mysql baze
+
+Napravi php skriptu koja dinamički generira XML podataka u bazi
+
+Napravi php skriptu koja izbaci emailove u raspon 2000-2023 npr
+
+SSL certificate problem: unable to get local issuer certificate php
+-rješenje: instalirat certifikat cacert.pem i stavit
+ga u wamp folder, zatim oba php.ini file-a (jedan u bin drugi u apache)
+promijenit im cainfo i cafile u path od cacert.pem
+
+Zadatak 2:
+php curl multiupload
+napravit tako da na stranici pomoću upload gumba napravim multiupload. Lokalno prenosim slike na server, moraju se kopirati
+meni lokalno na gymsite i spremit.
+php upload image $_FILES
+
+3. Zadatak
+u bazu spremit slike
+tablica slike imat ce 2 stupca: sliku i timestamp
+
+4. Zadatak
+u bazu hardcodeaj par stavki
+baza cijena tablica cijena imat će 3 stupca: šifra, naziv proizvoda, cijena
+napravit sveukupno koji računa
+pomoću while petlje izlistat stavke
+napravit polje za kupon, na temelju kupon koda npr 123 izbacit
+će mi pop up npr zeleni da smo dobro unijeli kod
+pop up implementirati pomoću bootstrap modal
+pazit na zareze i točke kod decimalnih mjesta
+hrvati imaju , a amerikanci . u bazi je . trebat će konvertat

@@ -13,21 +13,22 @@ Now we also need to create a database, create a table and insert data into it wh
 
 ## Screenshots
 ### Home
-![](site-screenshots/home1.png)
-![](site-screenshots/home2.png)
-![](site-screenshots/home3.png)
+![home1](https://github.com/svenius777/Golden-Gym-Web-Application/assets/77848988/81b50f46-aeee-4b9b-88de-cfaf58e228b8)
+![home2](https://github.com/svenius777/Golden-Gym-Web-Application/assets/77848988/ec6523af-d9a4-4e67-ad69-b4099fb4f071)
+![home3](https://github.com/svenius777/Golden-Gym-Web-Application/assets/77848988/820e8afe-c5b4-4e07-a8bf-9b930203d432)
+
 
 ### Treninzi
-![](site-screenshots/treninzi1.png)
-![](site-screenshots/treninzi2.png)
+![treninzi1](https://github.com/svenius777/Golden-Gym-Web-Application/assets/77848988/241e9596-34a3-4403-b792-cbf4c9184c9c)
+![treninzi2](https://github.com/svenius777/Golden-Gym-Web-Application/assets/77848988/13ced61b-f0dd-40b2-a8bf-f51e4f40eaf6)
 
 ### O nama
-![](site-screenshots/about1.png)
-![](site-screenshots/about2.png)
-![](site-screenshots/about3.png)
+![about1](https://github.com/svenius777/Golden-Gym-Web-Application/assets/77848988/8cb0ca93-b442-475c-872e-3f2a562d7389)
+![about2](https://github.com/svenius777/Golden-Gym-Web-Application/assets/77848988/4d0b5948-0520-45ef-acde-4ed142cf1fc0)
+![about3](https://github.com/svenius777/Golden-Gym-Web-Application/assets/77848988/29e11aa4-9e42-40e6-8ad4-2c1872adc53e)
 
 ### Upiši se
-![](site-screenshots/upisi.png)
+![upisi](https://github.com/svenius777/Golden-Gym-Web-Application/assets/77848988/ad6728c4-de79-4789-9aa0-c1bbd1ddb532)
 
 ### Kupi opremu
-![](site-screenshots/oprema.png)
+![oprema](https://github.com/svenius777/Golden-Gym-Web-Application/assets/77848988/a94c2638-dcd0-47ac-85c4-b1ae84c60240)
